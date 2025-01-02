@@ -34,3 +34,4 @@ Updated simulation environment - 01/05/2025 19:08:04
 Added CPU usage anomaly detection - 01/05/2025 22:07:36
 Enhanced process monitoring engine - 01/02/2025 16:26:30
 Added folder activity analysis - 01/02/2025 11:16:54
+Added suspicious extension detection - 01/02/2025 11:45:06
