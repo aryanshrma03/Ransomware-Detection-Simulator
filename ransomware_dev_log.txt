@@ -5,3 +5,4 @@ Added process termination protection - 01/05/2025 13:52:37
 Added folder activity analysis - 01/04/2025 17:37:19
 Optimized file scanning performance - 01/04/2025 17:41:26
 Enhanced detection threshold tuning - 01/04/2025 21:10:45
+Added suspicious process classifier - 01/04/2025 11:11:11
