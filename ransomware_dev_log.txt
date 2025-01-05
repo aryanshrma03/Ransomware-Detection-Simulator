@@ -1,1 +1,2 @@
 Added ransomware attack emulation - 01/05/2025 14:07:56
+Improved real-time file activity tracking - 01/05/2025 12:29:25
