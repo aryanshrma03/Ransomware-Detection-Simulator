@@ -31,3 +31,4 @@ Updated malware behavior dataset - 01/05/2025 13:33:02
 Initialized ransomware behavior monitoring module - 01/05/2025 13:27:52
 Improved directory monitoring logic - 01/05/2025 20:09:57
 Updated simulation environment - 01/05/2025 19:08:04
+Added CPU usage anomaly detection - 01/05/2025 22:07:36
