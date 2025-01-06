@@ -21,3 +21,4 @@ Improved real-time file activity tracking - 01/09/2025 09:24:52
 Added ransomware attack emulation - 01/06/2025 20:53:06
 Updated simulation environment - 01/06/2025 18:20:32
 Enhanced sandbox simulation support - 01/06/2025 09:03:38
+Added CPU usage anomaly detection - 01/06/2025 09:18:52
