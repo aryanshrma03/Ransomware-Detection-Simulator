@@ -64,3 +64,4 @@ Added suspicious process classifier - 01/21/2025 20:05:40
 Added suspicious process classifier - 01/21/2025 22:00:08
 Fixed false positive alert issue - 01/20/2025 12:47:55
 Enhanced sandbox simulation support - 01/20/2025 18:41:48
+Improved detection logging output - 01/20/2025 20:50:00
