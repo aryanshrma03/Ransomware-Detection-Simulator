@@ -58,3 +58,4 @@ Fixed minor UI inconsistencies - 01/19/2025 12:32:16
 Improved ransomware signature detection - 01/19/2025 13:40:43
 Enhanced file integrity validation - 01/21/2025 21:36:41
 Improved memory activity monitoring - 01/21/2025 15:52:41
+Enhanced detection threshold tuning - 01/21/2025 14:47:50
