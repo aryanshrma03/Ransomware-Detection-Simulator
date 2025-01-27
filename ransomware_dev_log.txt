@@ -70,3 +70,4 @@ Enhanced sandbox simulation support - 01/25/2025 19:22:51
 Improved threat alert system - 01/25/2025 18:40:32
 Added process termination protection - 01/25/2025 12:52:32
 Updated simulation environment - 01/27/2025 10:57:10
+Added CPU usage anomaly detection - 01/27/2025 14:27:05
