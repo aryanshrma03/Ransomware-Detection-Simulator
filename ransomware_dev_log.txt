@@ -87,3 +87,4 @@ Added suspicious process classifier - 02/03/2025 15:35:19
 Added automatic alert generation - 02/03/2025 11:17:53
 Added process termination protection - 02/03/2025 21:18:42
 Added behavioral anomaly scoring - 02/04/2025 10:51:26
+Enhanced detection threshold tuning - 02/04/2025 20:21:03
