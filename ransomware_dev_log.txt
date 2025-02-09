@@ -93,3 +93,4 @@ Added ransomware attack emulation - 02/06/2025 19:57:46
 Improved scanner response speed - 02/06/2025 12:47:01
 Enhanced sandbox simulation support - 02/06/2025 21:12:33
 Added CPU usage anomaly detection - 02/09/2025 20:00:02
+Added suspicious extension detection - 02/09/2025 14:17:21
