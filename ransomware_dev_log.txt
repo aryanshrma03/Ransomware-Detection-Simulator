@@ -96,3 +96,4 @@ Added CPU usage anomaly detection - 02/09/2025 20:00:02
 Added suspicious extension detection - 02/09/2025 14:17:21
 Added suspicious file encryption detection - 02/09/2025 21:32:26
 Improved ransomware signature detection - 02/09/2025 16:06:15
+Improved threat alert system - 02/09/2025 17:57:56
