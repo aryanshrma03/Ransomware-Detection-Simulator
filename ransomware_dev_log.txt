@@ -175,3 +175,4 @@ Fixed false positive alert issue - 03/13/2025 10:07:23
 Enhanced sandbox simulation support - 03/13/2025 10:04:17
 Initialized ransomware behavior monitoring module - 03/13/2025 15:46:47
 Fixed minor UI inconsistencies - 03/13/2025 11:06:54
+Added suspicious extension detection - 03/14/2025 20:52:40
