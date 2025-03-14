@@ -179,3 +179,4 @@ Added suspicious extension detection - 03/14/2025 20:52:40
 Updated simulation environment - 03/14/2025 16:38:57
 Updated simulation environment - 03/14/2025 22:34:49
 Added suspicious extension detection - 03/14/2025 15:53:42
+Enhanced ransomware simulation workflow - 03/14/2025 16:32:54
