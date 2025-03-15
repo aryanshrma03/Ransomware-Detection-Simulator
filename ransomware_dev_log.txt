@@ -166,3 +166,4 @@ Added folder activity analysis - 03/16/2025 14:16:46
 Updated simulation environment - 03/16/2025 19:45:51
 Added rapid file modification detection - 03/16/2025 20:20:23
 Updated detection heuristic rules - 03/16/2025 22:42:21
+Added CPU usage anomaly detection - 03/15/2025 09:22:39
