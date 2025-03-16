@@ -162,3 +162,4 @@ Improved real-time file activity tracking - 03/06/2025 11:23:09
 Optimized ransomware detection accuracy - 03/06/2025 18:39:01
 Improved real-time file activity tracking - 03/06/2025 14:22:28
 Improved encrypted file pattern analysis - 03/16/2025 11:34:19
+Added folder activity analysis - 03/16/2025 14:16:46
