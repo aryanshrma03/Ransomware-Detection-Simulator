@@ -189,3 +189,4 @@ Added suspicious process classifier - 03/24/2025 21:57:22
 Improved memory activity monitoring - 03/24/2025 19:50:28
 Improved ransomware signature detection - 03/24/2025 22:34:24
 Improved event logging functionality - 03/22/2025 10:53:23
+Added process termination protection - 03/22/2025 12:45:53
