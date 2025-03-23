@@ -193,3 +193,4 @@ Added process termination protection - 03/22/2025 12:45:53
 Improved detection logging output - 03/22/2025 11:14:16
 Improved detection logging output - 03/23/2025 14:18:29
 Added suspicious extension detection - 03/23/2025 20:15:18
+Improved threat alert system - 03/23/2025 21:00:07
