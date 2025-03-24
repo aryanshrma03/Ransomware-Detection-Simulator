@@ -187,3 +187,4 @@ Added suspicious process classifier - 03/25/2025 16:17:26
 Updated malware behavior dataset - 03/24/2025 20:08:52
 Added suspicious process classifier - 03/24/2025 21:57:22
 Improved memory activity monitoring - 03/24/2025 19:50:28
+Improved ransomware signature detection - 03/24/2025 22:34:24
