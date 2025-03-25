@@ -183,3 +183,4 @@ Enhanced ransomware simulation workflow - 03/14/2025 16:32:54
 Enhanced GUI monitoring dashboard - 03/25/2025 15:36:30
 Enhanced detection threshold tuning - 03/25/2025 10:33:11
 Added behavioral anomaly scoring - 03/25/2025 18:14:23
+Added suspicious process classifier - 03/25/2025 16:17:26
