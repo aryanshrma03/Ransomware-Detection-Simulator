@@ -201,3 +201,4 @@ Added behavioral anomaly scoring - 03/30/2025 09:44:02
 Added suspicious file encryption detection - 03/26/2025 22:57:37
 Added CPU usage anomaly detection - 03/26/2025 11:16:40
 Updated monitoring engine - 03/26/2025 10:11:35
+Improved ransomware signature detection - 03/26/2025 19:40:10
