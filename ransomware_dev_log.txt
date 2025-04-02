@@ -464,3 +464,4 @@ Added file integrity verification - 04/04/2025 15:04:44
 Improved scanner performance - 04/04/2025 21:28:14
 Enhanced simulation reporting system - 04/02/2025 19:55:15
 Improved ransomware activity scoring - 04/02/2025 14:30:17
+Improved system resource monitoring - 04/02/2025 11:49:30
