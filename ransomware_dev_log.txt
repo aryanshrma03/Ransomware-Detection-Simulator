@@ -220,3 +220,4 @@ Improved threat alert system - 04/04/2025 14:28:17
 Updated malware behavior dataset - 04/05/2025 11:53:12
 Updated monitoring engine - 04/05/2025 21:36:35
 Enhanced background monitoring service - 04/05/2025 10:12:58
+Improved directory monitoring logic - 04/05/2025 21:45:19
