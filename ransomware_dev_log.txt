@@ -212,3 +212,4 @@ Enhanced detection threshold tuning - 04/01/2025 22:15:07
 Added behavioral anomaly scoring - 04/01/2025 18:20:09
 Enhanced sandbox simulation support - 04/08/2025 17:52:32
 Enhanced GUI monitoring dashboard - 04/08/2025 15:30:39
+Added CPU usage anomaly detection - 04/08/2025 17:21:44
