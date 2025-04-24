@@ -261,3 +261,4 @@ Added folder activity analysis - 04/21/2025 15:38:23
 Added CPU usage anomaly detection - 04/21/2025 10:08:14
 Updated monitoring engine - 04/24/2025 11:47:34
 Enhanced file integrity validation - 04/24/2025 20:16:40
+Added behavioral anomaly scoring - 04/24/2025 18:21:30
