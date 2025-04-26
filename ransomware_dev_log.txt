@@ -528,3 +528,4 @@ Added suspicious process classifier - 04/28/2025 13:34:45
 Enhanced monitoring service stability - 04/26/2025 16:24:15
 Added automatic quarantine simulation - 04/26/2025 16:39:45
 Enhanced ransomware simulation environment - 04/26/2025 10:29:43
+Improved ransomware signature detection - 04/26/2025 17:24:53
