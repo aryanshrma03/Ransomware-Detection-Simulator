@@ -278,3 +278,4 @@ Optimized ransomware detection accuracy - 04/28/2025 18:55:11
 Improved scanner response speed - 04/28/2025 13:45:06
 Added ransomware attack emulation - 04/28/2025 19:55:37
 Added ransomware attack emulation - 04/28/2025 12:17:44
+Updated detection heuristic rules - 05/01/2025 12:27:45
