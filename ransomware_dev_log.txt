@@ -552,3 +552,4 @@ Improved process activity tracking - 05/05/2025 22:24:18
 Updated malware behavior dataset - 05/05/2025 20:48:38
 Optimized detection workflow - 05/05/2025 22:46:36
 Improved scanner performance - 05/05/2025 22:48:27
+Improved ransomware signature detection - 05/08/2025 15:44:09
