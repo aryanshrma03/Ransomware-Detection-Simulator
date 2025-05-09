@@ -563,3 +563,4 @@ Improved ransomware signature detection - 05/06/2025 13:55:09
 Enhanced heuristic analysis module - 05/09/2025 17:58:29
 Improved process activity tracking - 05/09/2025 13:01:15
 Enhanced process monitoring engine - 05/09/2025 14:17:22
+Improved ransomware activity scoring - 05/09/2025 19:13:14
