@@ -301,3 +301,4 @@ Enhanced GUI monitoring dashboard - 05/13/2025 13:28:00
 Added CPU usage anomaly detection - 05/13/2025 17:04:34
 Enhanced detection stability - 05/13/2025 22:41:58
 Updated simulation environment - 05/10/2025 16:44:04
+Added suspicious extension detection - 05/10/2025 11:00:16
