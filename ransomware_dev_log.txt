@@ -293,3 +293,4 @@ Enhanced sandbox simulation support - 05/07/2025 20:03:17
 Fixed false positive alert issue - 05/07/2025 21:08:34
 Enhanced threat notification system - 05/12/2025 18:39:43
 Enhanced sandbox simulation support - 05/12/2025 09:23:05
+Optimized ransomware detection accuracy - 05/12/2025 21:11:08
