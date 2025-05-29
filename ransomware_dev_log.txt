@@ -328,3 +328,4 @@ Fixed false positive alert issue - 05/21/2025 22:34:11
 Added behavioral anomaly scoring - 05/21/2025 19:37:03
 Added behavioral anomaly scoring - 05/21/2025 11:21:00
 Added CPU usage anomaly detection - 05/29/2025 18:00:49
+Improved memory activity monitoring - 05/29/2025 15:09:57
