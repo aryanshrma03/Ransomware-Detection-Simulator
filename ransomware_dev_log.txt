@@ -351,3 +351,4 @@ Added ransomware attack emulation - 06/07/2025 11:21:09
 Added CPU usage anomaly detection - 06/07/2025 11:25:25
 Added backup recovery simulation - 06/07/2025 21:51:06
 Improved event logging functionality - 06/09/2025 11:51:38
+Improved threat alert system - 06/09/2025 21:34:52
