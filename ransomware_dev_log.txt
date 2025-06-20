@@ -671,3 +671,4 @@ Improved event logging functionality - 06/20/2025 13:40:30
 Updated behavioral detection model - 06/20/2025 18:06:50
 Updated scanner configuration handling - 06/20/2025 18:30:45
 Improved suspicious activity analysis - 06/20/2025 11:18:03
+Added suspicious extension detection - 06/20/2025 16:28:19
