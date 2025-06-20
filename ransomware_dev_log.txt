@@ -380,3 +380,4 @@ Added rapid file modification detection - 06/22/2025 21:22:36
 Enhanced process monitoring engine - 06/22/2025 20:47:23
 Improved memory activity monitoring - 06/20/2025 18:15:45
 Enhanced sandbox simulation support - 06/20/2025 22:34:18
+Added CPU usage anomaly detection - 06/20/2025 11:44:48
