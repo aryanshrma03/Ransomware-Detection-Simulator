@@ -386,3 +386,4 @@ Enhanced threat notification system - 06/20/2025 18:03:49
 Added CPU usage anomaly detection - 06/27/2025 20:19:17
 Updated monitoring engine - 06/27/2025 10:28:29
 Improved real-time file activity tracking - 06/27/2025 11:37:39
+Improved directory monitoring logic - 06/27/2025 15:43:25
