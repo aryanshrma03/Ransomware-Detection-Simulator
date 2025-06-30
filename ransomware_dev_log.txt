@@ -388,3 +388,4 @@ Updated monitoring engine - 06/27/2025 10:28:29
 Improved real-time file activity tracking - 06/27/2025 11:37:39
 Improved directory monitoring logic - 06/27/2025 15:43:25
 Fixed minor UI inconsistencies - 06/27/2025 22:58:03
+Added CPU usage anomaly detection - 06/30/2025 11:08:18
