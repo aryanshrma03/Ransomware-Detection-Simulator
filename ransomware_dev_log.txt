@@ -673,3 +673,4 @@ Updated scanner configuration handling - 06/20/2025 18:30:45
 Improved suspicious activity analysis - 06/20/2025 11:18:03
 Added suspicious extension detection - 06/20/2025 16:28:19
 Improved scanner performance - 06/30/2025 12:30:00
+Improved ransomware signature detection - 06/30/2025 14:09:52
