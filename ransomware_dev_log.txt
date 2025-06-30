@@ -390,3 +390,4 @@ Improved directory monitoring logic - 06/27/2025 15:43:25
 Fixed minor UI inconsistencies - 06/27/2025 22:58:03
 Added CPU usage anomaly detection - 06/30/2025 11:08:18
 Improved threat alert system - 06/30/2025 16:56:21
+Improved detection logging output - 06/30/2025 22:29:38
