@@ -404,3 +404,4 @@ Improved encrypted file pattern analysis - 07/05/2025 20:36:52
 Added suspicious extension detection - 07/05/2025 10:38:05
 Enhanced sandbox simulation support - 07/05/2025 14:51:06
 Improved directory monitoring logic - 07/03/2025 15:20:15
+Updated simulation environment - 07/03/2025 11:35:01
