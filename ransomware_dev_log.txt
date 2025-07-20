@@ -725,3 +725,4 @@ Added encrypted file pattern analysis - 07/17/2025 13:40:18
 Improved detection threshold calibration - 07/17/2025 22:21:04
 Added suspicious process classifier - 07/20/2025 15:33:56
 Enhanced threat intelligence integration - 07/20/2025 12:52:32
+Enhanced system behavior monitoring - 07/20/2025 11:23:17
