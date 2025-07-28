@@ -431,3 +431,4 @@ Improved memory activity monitoring - 07/21/2025 10:48:45
 Enhanced sandbox simulation support - 07/21/2025 12:39:56
 Initialized ransomware behavior monitoring module - 07/28/2025 19:47:23
 Enhanced detection threshold tuning - 07/28/2025 11:51:00
+Added behavioral anomaly scoring - 07/28/2025 10:06:17
